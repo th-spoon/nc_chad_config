@@ -32,4 +32,5 @@ return {
   		},
   	},
   },
+  { "kylechui/nvim-surround" }, -- For nvim-surround
 }
